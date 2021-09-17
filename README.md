@@ -1,11 +1,6 @@
 # MINI PROJECT PYTHON
 
 
-``` bash
-# wheater_app.py prompts you to install:
-pip install bs4
-pip install requests
-```
 <!--Please do not remove this part-->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
@@ -38,7 +33,7 @@ pip install requests
 ```
 
 ## 📺 Demo
-Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif).
+<!-- Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif). -->
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
