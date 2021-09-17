@@ -32,7 +32,7 @@ Install [Python 3](https://www.python.org/downloads/)
 ## 🌟 How to run
 <!--Remove the below lines and add yours -->
 ``` bash
-# wheater_app.py prompts you to install:
+# wheater_app.py prompts you need to install:
 pip install bs4
 pip install requests
 ```
