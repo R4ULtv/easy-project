@@ -35,5 +35,6 @@ pip install requests
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
-  <img align="left" alt="Raul Carini" width="55px" src="https://www.raulcarini.com/assets/img/profilo1.png" /> Raul Carini
+  <img align="left" alt="Raul Carini" width="55px" src="https://www.raulcarini.com/assets/img/profilo1.png" />
 </a>
+Raul Carini
