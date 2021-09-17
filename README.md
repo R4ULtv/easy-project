@@ -43,5 +43,5 @@ Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif).
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
-  <img align="left" alt="Raul Carini" width="30px" src="https://avatars.githubusercontent.com/u/85316240" />
+  <img align="left" alt="Raul Carini" width="50px" src="https://avatars.githubusercontent.com/u/85316240" />
 </a>
