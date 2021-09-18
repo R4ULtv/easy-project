@@ -36,6 +36,7 @@ pip install forex-python
 
 ## 📺 Demo
 <!-- Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif). -->
+<img src="https://code.visualstudio.com/assets/docs/python/tutorial/intellisense01.png" />
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
