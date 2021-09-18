@@ -29,6 +29,9 @@ pip install requests
 pip install tkinter
 pip install gTTS
 pip install playsound
+
+# currency_converter.py prompts you need to install:
+pip install forex-python
 ```
 
 ## 📺 Demo
