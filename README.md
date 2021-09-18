@@ -24,6 +24,11 @@ Install [Python 3](https://www.python.org/downloads/)
 # wheater_app.py prompts you need to install:
 pip install bs4
 pip install requests
+
+# python_text_to_speech.py prompts you need to install:
+pip install tkinter
+pip install gTTS
+pip install playsound
 ```
 
 ## 📺 Demo
